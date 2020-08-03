@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="1466996120931435000"
+    verifier="FIELD_REMOVED" >
+
+    <task
+        name="javac"
+        duration="255" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1466995378738660000" >
+        <artifact
+            location="/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1466996120931435000"
+        verifier="FIELD_REMOVED" >
+        <artifact
+            location="/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

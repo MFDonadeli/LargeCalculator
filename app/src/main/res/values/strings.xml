@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LargeCalculator</string>
+    <string name="app_desc">Large Number Calculator</string>
+
+    <string name="digits">Digits: </string>
+
+    <string name="googol">Googol</string>
+    <string name="random">x digits</string>
+    <string name="divone">1/x</string>
+    <string name="factorial">x!</string>
+
+    <string name="clear">C</string>
+    <string name="division">÷</string>
+    <string name="multiplication">x</string>
+    <string name="subtraction">-</string>
+    <string name="addition">+</string>
+    <string name="equals">=</string>
+    <string name="mod">+/-</string>
+    <string name="dot">.</string>
+
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+
+    <string name="settings">Settings:</string>
+    <string name="settings_timeout">Time-out in seconds:</string>
+    <string name="settings_precision">Decimal Precision:</string>
+    <string name="erase_desc">Erase a number</string>
+</resources>

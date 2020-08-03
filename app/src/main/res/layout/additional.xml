@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnGoogol"
+        android:onClick="clickNumber"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/googol"
+        android:layout_weight="1"
+        style="@style/digit_button_style"/>
+    <Button
+        android:id="@+id/btnDigits"
+        android:onClick="clickAddOperation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/random"
+        android:layout_weight="1"
+        style="@style/digit_button_style"/>
+    <Button
+        android:id="@+id/btnRoot"
+        android:onClick="clickOperation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textAllCaps="false"
+        style="@style/operation_button_style"/>
+    <Button
+        android:id="@+id/btnDivByOne"
+        android:onClick="clickAddOperation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/divone"
+        style="@style/operation_button_style"/>
+    <Button
+        android:id="@+id/btnFactorial"
+        android:onClick="clickAddOperation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/factorial"
+        style="@style/operation_button_style"/>
+
+
+</LinearLayout>

@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/res/merged/release/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 57,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 55,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 47,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 47,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 49,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 49,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 52,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/mfdonadeli/AndroidStudioProjects/LargeCalculator/app/src/main/res/values-xlarge-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 52,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]
